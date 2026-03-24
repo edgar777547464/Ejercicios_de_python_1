@@ -42,3 +42,5 @@ for indice in range(cant_dias):
 
 if not existe_temperatura:
     print("No hay ningún día con dicha temperatura.")
+
+     
